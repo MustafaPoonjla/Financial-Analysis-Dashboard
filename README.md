@@ -5,7 +5,7 @@ sales, profit, and cost data across 5 countries, 5 business segments, and
 6 product lines over 2013–2014.
 
 ## Dashboard Preview
-![Financial Analysis Dashboard](Financial%20Analysis1.png)
+![Financial Analysis Dashboard](Financial%20Analysis%P1.png)
 
 ## What This Dashboard Shows
 
